@@ -10,17 +10,17 @@ eJPT is the only practical certification that proves you have essential Penetrat
 ### ***Knowledge Domains***
 By obtaining the eJPT, your skills in the following areas will be assessed and certified:
 
-	- TCP/IP
-	- IP routing
-	- LAN protocols and devices
-	- HTTP and web technologies
-	- Essential penetration testing processes and methodologies
-	- Basic vulnerability assessment of networks
-	- Basic vulnerability assessment of web applications
-	- Exploitation with Metasploit
-	- Simple web application manual exploitation
-	- Basic information gathering and reconnaissance
-	- Simple scanning and profiling the target
+- TCP/IP
+- IP routing
+- LAN protocols and devices
+- HTTP and web technologies
+- Essential penetration testing processes and methodologies
+- Basic vulnerability assessment of networks
+- Basic vulnerability assessment of web applications
+- Exploitation with Metasploit
+- Simple web application manual exploitation
+- Basic information gathering and reconnaissance
+- Simple scanning and profiling the target
 
 The **Penetration Testing Student** on [INE](https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student) has many sections and contains many labs to get hand on experince:
 
