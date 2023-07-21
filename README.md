@@ -1,14 +1,14 @@
 # eJPT-v2-Certificate-Notes
 [eJPT](https://elearnsecurity.com/product/ejpt-certification/) stands for eLearnSecurity Junior Penetration Tester.
 
-> Here are some of the ways eLearnSecurity Junior Penetration Tester certification is different from conventional certification:
+Here are some of the ways eLearnSecurity Junior Penetration Tester certification is different from conventional certification:
 
-> Instead of putting you through a series of multiple-choice questions, you are expected to perform an actual penetration test on a corporate network. This penetration test is modeled after a real-world scenario
+Instead of putting you through a series of multiple-choice questions, you are expected to perform an actual penetration test on a corporate network. This penetration test is modeled after a real-world scenario
 
-> eJPT is the only practical certification that proves you have essential Penetration Testing skills
+eJPT is the only practical certification that proves you have essential Penetration Testing skills
 
-> ***Knowledge Domains***
-> By obtaining the eJPT, your skills in the following areas will be assessed and certified:
+### ***Knowledge Domains***
+By obtaining the eJPT, your skills in the following areas will be assessed and certified:
 
 	- TCP/IP
 	- IP routing
