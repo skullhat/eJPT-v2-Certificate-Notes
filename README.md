@@ -25,12 +25,20 @@
 The 'Penetration Testing Student' on [INE](https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student) has many sections and contains many labs to get hand on experince:
 
 Section 1 - Assessment Methodologies
+
 Section 2 - Host & Networking Auditing
+
 Section 3 - Host & Network Penetration Testing System-Host Based Attacks
+
 Section 4 - Host & Network Penetration Testing Network-Based Attacks
+
 Section 5 - Host & Network Penetration Testing -  The Metasploit Framework (MSF)
+
 Section 6 - Host & Network Penetration Testing - Exploitation
+
 Section 7 - Host & Network Penetration Testing - Post-Exploitation
+
 Section 8 - Host & Network Penetration Testing - Social Engineering
+
 Section 9 - Web Application Penetration Testing - Introduction to the Web and HTTP Protocol
 
